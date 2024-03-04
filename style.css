@@ -1,0 +1,35 @@
+.container{
+    margin: 70px;
+   /* background-color: black; */
+}
+
+button{
+    margin: 20px;
+}
+
+.displayContent{
+    margin: 50px;
+    text-align:center;
+    /* background-color: rgb(195, 186, 27); */
+    color:rgb(3, 5, 100);
+
+}
+body{
+    background: url("./media/pexels-lucie-liz-8399096.jpg");
+    background-size: cover;
+    /* background-repeat:repeat; */
+}
+
+h1{
+    text-align: center;
+    color: rgb(40, 43, 180);
+    padding: 10px;
+    text-decoration: underline;
+    margin-bottom: 50px;
+    
+}
+
+img{
+    width: 100px;
+    height: 150px;
+}
